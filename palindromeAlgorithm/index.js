@@ -1,5 +1,5 @@
 /*
-Palindrome Algorithm is an algorithm that checks reverse a word or phrase and compare its initial value with the reversed value and returns whether the word or phrase is a Palindrome.
+Palindrome Algorithm is an algorithm that checks a phrase or a word and compare its initial value with the reversed value and returns whether the word or phrase is a Palindrome.
 Palindrome is a word or a phrase or sequence that reads the same when reversed.
 Example: mum is the same as mum when reversed.
 */
@@ -25,7 +25,7 @@ const palindromeAlgorithm = (phrase) => {
 };
 
 palindromeAlgorithm("hello world");
-// "dlrow olleh "is not the same as "hello world", therefore it is not a Palindrome
+//"dlrow olleh "is not the same as "hello world", therefore it is not a Palindrome
 
 palindromeAlgorithm("wow");
 // "wow" is the same as wow, therefore it is a Palindrome
