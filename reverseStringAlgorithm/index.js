@@ -1,5 +1,5 @@
 /*
-Reversed Algorithm is an algorithm that takes in a string input and return a reversed value of the string pass as an argument to the funtion.
+Reverse String Algorithm is an algorithm that takes in a string input and return a reversed value of the string pass as an argument to the funtion.
 */
 
 //Create a function and pass an arguemnt of stringToReverse as a parameter
